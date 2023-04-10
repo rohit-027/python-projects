@@ -22,7 +22,7 @@ while True:
                 print(" cost of normal seat", cost_normal)
                 print("total normal seats left", normal_seats_left)
             else:
-                print("normal seat is not available")
+                print("recliner seat is not available")
 
         if choice == "recliner":
             choose = int(input("how many recliner seats do you want: "))
