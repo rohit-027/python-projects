@@ -9,7 +9,7 @@ total = 0
 while True:
     print("welcome to the tottenham football stadium")
     print("normal seat price: 250")
-    print("recliner seat price: 250")
+    print("recliner seat price: 350")
     name = input("enter your name: ")
     phone_nub = int(input("enter your number: "))
     choice = input("which type of seats do you want normal/recliner")
